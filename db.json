@@ -1,0 +1,56 @@
+{
+    "product" : [
+        {
+            "id":0,
+            "name": "Hàng tẩy trắng cắt vành size 15cm up",
+            "img1":"https://i.ibb.co/Svs4qmP/httcvs15-up-1.webp",
+            "img2":"https://i.ibb.co/LpPnCkf/httcvs15-up-2.webp",
+            "img3":"https://i.ibb.co/Svs4qmP/httcvs15-up-1.webp",
+            "img4":"https://i.ibb.co/LpPnCkf/httcvs15-up-2.webp",
+            "describe":"Hàng tẩy trắng cắt vành kích thước 15cm là một sản phẩm được thiết kế để loại bỏ mảng bám và tẩy trắng các vết bẩn trên bề mặt. Sản phẩm này có đường kính từ 10cm đến 15cm, với mục đích chính là tẩy trắng và làm sạch. Nó thường được sử dụng trong nhiều ngành công nghiệp và ứng dụng khác nhau như làm sạch bề mặt kim loại, gỗ, gốm sứ và các vật liệu khác.",
+            "use":"Hàng tẩy trắng cắt vành 10-15cm thường được làm từ các chất tẩy trắng hoá học mạnh như clo hay peroxit. Sản phẩm có thể có hình dạng và cấu trúc khác nhau, từ đĩa tròn, bán tròn đến các dạng khác như miếng vuông, miếng tam giác hoặc hình trapezoid."
+        },
+        {
+            "id":1,
+            "name": "Hàng tẩy trắng không cắt vành size 10-15cm up",
+            "img1":"https://i.ibb.co/4Kpj6st/ttkcv1.webp",
+            "img2":"https://i.ibb.co/YB6Jykb/ttkcv2.webp",
+            "img3":"https://i.ibb.co/NTYc1zJ/ttkcv3.webp",
+            "img4":"https://i.ibb.co/WtPwzKw/ttkcv4.webp",
+            "describe":"Sản phẩm này có hình dạng đĩa tròn hoặc bán tròn với đường kính từ 10cm đến 15cm, và không có việc cắt vành, tức là không có biên giới rõ ràng giữa các phần khác nhau của sản phẩm.",
+            "use":"Hàng tẩy trắng cắt vành 10-15cm thường được làm từ các chất tẩy trắng hoá học mạnh như clo hay peroxit. Sản phẩm có thể có hình dạng và cấu trúc khác nhau, từ đĩa tròn, bán tròn đến các dạng khác như miếng vuông, miếng tam giác hoặc hình trapezoid."
+        },
+        {
+          
+
+            "id":2,
+            "name": "Hàng tẩy trắng cắt vành size 10-15cm up",
+            "img1":"https://i.ibb.co/dQH489r/httcvs10-15-1.webp",
+            "img2":"https://i.ibb.co/cCScJ6R/httcvs10-15-2.webp",
+            "img3":"https://i.ibb.co/dQH489r/httcvs10-15-1.webp",
+            "img4":"https://i.ibb.co/cCScJ6R/httcvs10-15-2.webp",
+            "describe":"Hàng tẩy trắng cắt vành kích thước 10-15cm là một sản phẩm được thiết kế để loại bỏ mảng bám và tẩy trắng các vết bẩn trên bề mặt. Sản phẩm này có đường kính từ 10cm đến 15cm, với mục đích chính là tẩy trắng và làm sạch. Nó thường được sử dụng trong nhiều ngành công nghiệp và ứng dụng khác nhau như làm sạch bề mặt kim loại, gỗ, gốm sứ và các vật liệu khác.",
+            "use":"Hàng tẩy trắng cắt vành 10-15cm thường được làm từ các chất tẩy trắng hoá học mạnh như clo hay peroxit. Sản phẩm có thể có hình dạng và cấu trúc khác nhau, từ đĩa tròn, bán tròn đến các dạng khác như miếng vuông, miếng tam giác hoặc hình trapezoid."
+        },
+        {
+            "id":3,
+            "name": "Hàng tẩy trắng đóng vỉ",
+            "img1":"https://i.ibb.co/PQ2kTQj/Hang-dong-vi.webp",
+            "img2":"https://i.ibb.co/VpJJXhN/Hang-dong-vi-1.webp",
+            "img3":"https://i.ibb.co/r6Rqx7B/hang-dong-vi-2.webp",
+            "img4":"https://i.ibb.co/Z6LZygH/hang-dong-vi-3.webp",
+            "describe":"Hàng tẩy trắng đóng vỉ được làm bằng nang mực tự nhiên 100% là một sản phẩm tẩy trắng và làm sạch bề mặt được chế tạo hoàn toàn từ nang mực tự nhiên, mà không chứa bất kỳ hợp chất hay thành phần hóa học khác.",
+            "use":"Hàng tẩy trắng cắt vành 10-15cm thường được làm từ các chất tẩy trắng hoá học mạnh như clo hay peroxit. Sản phẩm có thể có hình dạng và cấu trúc khác nhau, từ đĩa tròn, bán tròn đến các dạng khác như miếng vuông, miếng tam giác hoặc hình trapezoid."
+        },
+        {
+            "id":4,
+            "name": "Hàng tẩy trắng mài oval",
+            "img1":"https://i.ibb.co/VYFqtPW/hang-mai-oval-1.webp",
+            "img2":"https://i.ibb.co/nLtsPLq/hang-mai-oval-2.webp",
+            "img3":" https://i.ibb.co/XkLR7x0/hang-mai-oval-3.webp",
+            "img4":"https://i.ibb.co/VYFqtPW/hang-mai-oval-1.webp",
+            "describe":"Hàng tẩy trắng cắt vành kích thước 10-15cm là một sản phẩm được thiết kế để loại bỏ mảng bám và tẩy trắng các vết bẩn trên bề mặt. Sản phẩm này có đường kính từ 10cm đến 15cm, với mục đích chính là tẩy trắng và làm sạch. Nó thường được sử dụng trong nhiều ngành công nghiệp và ứng dụng khác nhau như làm sạch bề mặt kim loại, gỗ, gốm sứ và các vật liệu khác.",
+            "use":"Hàng tẩy trắng cắt vành 10-15cm thường được làm từ các chất tẩy trắng hoá học mạnh như clo hay peroxit. Sản phẩm có thể có hình dạng và cấu trúc khác nhau, từ đĩa tròn, bán tròn đến các dạng khác như miếng vuông, miếng tam giác hoặc hình trapezoid."
+        }
+    ]
+}
