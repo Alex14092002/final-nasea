@@ -366,7 +366,104 @@ a:hover {
   
 }
 
+
+
+
+
+/* footer-css */
+
+.logo-footer{
+  margin-bottom: 10px;
+}
+.item-footer ul{
+  list-style: none;
+  color: #333333;
+  padding-left: 0;
+}
+.item-footer{
+  margin-bottom: 10px;
+}
+.item-footer ul li i{
+  margin-right: 10px;
+}
+.main-footer{
+  padding: 50px 0px;
+}
+.footer{
+  align-items: center;
+}
+.item-footer h3{
+  font-size: 20px;
+  color: #ff5757;
+}
+
+/* css-gioithieu */
+.info-detail{
+  margin: 50px 0;
+  align-items: center;
+}
+.content-info h5{
+  font-size: 28px;
+  text-align: center;
+}
+.content-info p{
+  color: #777777;
+  text-align: justify;
+}
+.content-info p a{
+  color: #777777;
+}
+.content-info p a:hover{
+  color: #333333;
+}
+.img-gioithieu{
+  text-align: center;
+}
+.table-info{
+  margin: 50px;
+  
+  width: 100%;
+}
+.table-info tbody tr th{
+  width: 30%;
+  padding: 20px 10px;
+}
+.table-info tbody tr td{
+  width: 70%;
+  padding-left: 10px;
+}
+
+.table-info tbody tr th i{
+  margin-right: 10px;
+}
+
+table tr , table tr th{
+  border: #cacaca 1px solid;
+}
+
 @media(max-width : 800px){
+  .table-info{
+    margin: 50px auto;
+  }
+  .mobile-phuongthuc{
+    text-align: center;
+  }
+  .img-phuongthuc img{
+    width: 80%;
+  }
+  .img-phuongthuc{
+    text-align: center;
+  }
+  .content-info{
+    order: 0;
+  }
+  .img-gioithieu{
+    order: 1;
+  }
+  .img-gioithieu img{
+    width: 100%;
+  }
+ 
   .section-info{
     padding-top: 10px;
     padding-bottom: 10px;
